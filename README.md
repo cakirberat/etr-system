@@ -16,6 +16,14 @@ cd backend\WebApplication1
 dotnet restore
 dotnet run
 ```
+Backend’i yeniden başlatmak isterseniz
+Önce çalışan süreci kapatın, sonra tekrar başlatın:
+
+```powershell
+Get-Process -Name "WebApplication1" -ErrorAction SilentlyContinue | Stop-Process -Force
+cd C:\Users\brt_c\OneDrive\Masaüstü\A\backend\WebApplication1
+dotnet run
+```
 
 API adresi: **http://localhost:5030**  
 Swagger: **http://localhost:5030/swagger**

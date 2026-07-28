@@ -3456,7 +3456,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\brt_c\\AppData\\Local\\Temp\\cursor-sandbox-cache\\feeb13659b8eb83bfeb16299015d1791\\nuget": {},
+    "C:\\Users\\brt_c\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
@@ -3465,7 +3465,7 @@
       "projectUniqueName": "C:\\Users\\brt_c\\OneDrive\\Masaüstü\\A\\backend\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
       "projectPath": "C:\\Users\\brt_c\\OneDrive\\Masaüstü\\A\\backend\\WebApplication1\\WebApplication1.csproj",
-      "packagesPath": "C:\\Users\\brt_c\\AppData\\Local\\Temp\\cursor-sandbox-cache\\feeb13659b8eb83bfeb16299015d1791\\nuget",
+      "packagesPath": "C:\\Users\\brt_c\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\brt_c\\OneDrive\\Masaüstü\\A\\backend\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
