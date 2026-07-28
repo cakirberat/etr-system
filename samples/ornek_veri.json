@@ -1,0 +1,5 @@
+[
+  { "ad": "Ece", "soyad": "Tan", "yas": 30, "departman": "Satış", "maas": 46000, "durum": "Aktif", "iseGiris": "2021-05-12" },
+  { "ad": "Kaan", "soyad": "Bulut", "yas": 48, "departman": "IT", "maas": 71000, "durum": "Aktif", "iseGiris": "2012-11-03" },
+  { "ad": "Naz", "soyad": "Kurt", "yas": 67, "departman": "Yönetim", "maas": 88000, "durum": "Pasif", "iseGiris": "1990-02-18" }
+]
