@@ -75,7 +75,6 @@ A/
 ├── backend/WebApplication1/   # .NET Core API
 ├── frontend/login/            # Next.js uygulaması
 ├── samples/                   # Örnek veri dosyaları
-└── SUNUM.md                   # Sunum metni
 ```
 
 ## Sorun Giderme
